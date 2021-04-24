@@ -13,6 +13,30 @@ align-items: center;'
 Aplicativo desenvolvido durante a 5ª edição da Next Level Week promovida pela Rocketseat.
 O objetivo era fazer um quiz de perguntas sobre Flutter.
 
+## Aprendizado
+1. Introdução ao Flutter
+    1. Como funciona
+    2. Plataformas suportadas
+2. Conceitos de layout
+    1. main.dart
+    2. runApp()
+    3. statelessWidget
+    4. MaterialApp
+    5. Scaffold
+    6. Container
+3. Telas
+    1. Splash
+    2. Home
+    3. Challenge
+    4. Result
+4. Widgets
+    1. chart
+    2. title
+    3. background
+    4. shadow
+    5. textStyle
+    6. borderRadius
+    7. icon
 ## Tecnologias utilizadas
 - [Flutter](https://flutter.dev/)
 
