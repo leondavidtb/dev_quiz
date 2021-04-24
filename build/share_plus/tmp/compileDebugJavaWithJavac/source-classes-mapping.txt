@@ -1,0 +1,10 @@
+dev/fluttercommunity/plus/share/SharePlusPlugin.java
+ dev.fluttercommunity.plus.share.SharePlusPlugin
+dev/fluttercommunity/plus/share/ShareFileProvider.java
+ dev.fluttercommunity.plus.share.ShareFileProvider
+dev/fluttercommunity/plus/share/BuildConfig.java
+ dev.fluttercommunity.plus.share.BuildConfig
+dev/fluttercommunity/plus/share/Share.java
+ dev.fluttercommunity.plus.share.Share
+dev/fluttercommunity/plus/share/MethodCallHandler.java
+ dev.fluttercommunity.plus.share.MethodCallHandler

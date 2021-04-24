@@ -1,0 +1,4 @@
+#Sat Apr 24 10:29:50 BRT 2021
+base.0=/home/leonardo/Documentos/NLW5/dev_quiz/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
